@@ -1,0 +1,16 @@
+# agent framework and LLM integration
+langchain==0.1.0
+langchain-openai==0.0.2
+openai
+faiss-cpu
+
+# document processing
+pypdf==3.17.4
+
+# search capabilities
+google-search-results
+python-dotenv
+
+# data manipulation
+pandas
+jinja2
